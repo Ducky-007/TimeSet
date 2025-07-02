@@ -27,9 +27,17 @@ public class TimeSet
 
     public void SetTime(int hour, int minute, int second)
     {
-        if ((hour < 0 || hour > 23) || (minute < 0 || minute > 59) || (second < 0 || second > 59))
+        if ((hour < 0 || hour > 23))
         {
-            throw new ArgumentException("Value wasn't in the required range. Fix and try again.");
+            throw new ArgumentOutOfRangeException(nameof(hour), hour, $"{nameof(Hour)} must be 0-23");
+        }
+        if ((minute < 0 || minute > 59))
+        {
+            throw new ArgumentOutOfRangeException(nameof(minute), minute, $"{nameof(Minute)} must be 0-59");
+        }
+        if ((second < 0 || second > 59))
+        {
+            throw new ArgumentOutOfRangeException(nameof(second), second, $"{nameof(Second)} must be 0-59");
         }
         {
             Hour = hour;
