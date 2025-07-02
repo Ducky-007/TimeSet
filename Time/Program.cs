@@ -11,10 +11,19 @@ public class TimeSet
     public static void Main()
     {
         TimeSet test = new TimeSet();
-        test.SetTime(7, 22, 37);
-        Console.Write($"Uni String: {test.ToUniStr()}\n");
-        Console.WriteLine($"AM/PM String: {test.ToString()}");
-    }
+        // get user to input hour
+        Console.Write("Enter hour: ");
+        int userHour = int.Parse(Console.ReadLine());
+        // get user to input minute
+        Console.Write("Enter minutes: ");
+        int userMinute = int.Parse(Console.ReadLine());
+        // get user to input second
+        Console.Write("Enter seconds: ");
+        int userSecond = int.Parse(Console.ReadLine());
+        test.SetTime(userHour, userMinute, userSecond);
+        Console.WriteLine($"Time in AM/PM format: {test.ToString()}");
+        Console.WriteLine($"Time in AM/PM format: {test.ToUniStr()}");
+    }   
 
     public void SetTime(int hour, int minute, int second)
     {

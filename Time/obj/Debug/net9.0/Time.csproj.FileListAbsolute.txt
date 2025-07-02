@@ -12,3 +12,4 @@ C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\obj\Debug\net9.0\refin
 C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\obj\Debug\net9.0\Time.pdb
 C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\obj\Debug\net9.0\Time.genruntimeconfig.cache
 C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\obj\Debug\net9.0\ref\Time.dll
+C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\obj\Debug\net9.0\Time.sourcelink.json
