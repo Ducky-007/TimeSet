@@ -1,0 +1,14 @@
+C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\obj\Debug\net9.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\obj\Debug\net9.0\Time.AssemblyInfoInputs.cache
+C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\obj\Debug\net9.0\Time.AssemblyInfo.cs
+C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\obj\Debug\net9.0\Time.csproj.CoreCompileInputs.cache
+C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\bin\Debug\net9.0\Time.exe
+C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\bin\Debug\net9.0\Time.deps.json
+C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\bin\Debug\net9.0\Time.runtimeconfig.json
+C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\bin\Debug\net9.0\Time.dll
+C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\bin\Debug\net9.0\Time.pdb
+C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\obj\Debug\net9.0\Time.dll
+C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\obj\Debug\net9.0\refint\Time.dll
+C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\obj\Debug\net9.0\Time.pdb
+C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\obj\Debug\net9.0\Time.genruntimeconfig.cache
+C:\Users\CameronDuckett\Desktop\Projects\C#\TimeRoot\Time\obj\Debug\net9.0\ref\Time.dll
